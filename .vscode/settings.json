@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "zenMode.showTabs": "multiple",
+    "zenMode.restore": false,
+    "liveServer.settings.port": 5502
+}
